@@ -1,7 +1,7 @@
 
 
 
-if game.PlaceId == 6284583030 then
+if game.PlaceId == 6284583030 or game.PlaceId == 7722306047 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TR1V5/TR1V5-V3/main/Games/Pet%20Simulator%20X"))()
 elseif game.PlaceId == 606849621 then
     -- Down
