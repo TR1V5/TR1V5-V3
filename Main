@@ -1,9 +1,1 @@
-if game.PlaceId == 6284583030 or game.PlaceId == 7722306047 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/TR1V5/TR1V5-V3/main/Games/Pet%20Simulator%20X"))()
-elseif game.PlaceId == 606849621 then
-    -- Down
-elseif game.PlaceId == 2619187362 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/TR1V5/TR1V5-V3/main/Games/Super%20Power%20Fighting%20Simulator"))()
-elseif game.PlaceId == 286090429 then
-    -- Down
-end
+game:GetService("Players").LocalPlayer:Kick("V4 is out https://discord.gg/fUBwBXZHcq")
